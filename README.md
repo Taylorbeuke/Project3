@@ -3,7 +3,7 @@
 An interactive data story exploring how income distribution, the Gini coefficient, and housing affordability have shifted in the United States since the 1960s. Built with **Python (Altair + matplotlib)**, **ArcGIS StoryMaps**, and **Power BI**, then narrated through long-form writing on Medium.
 
 
-[<img width="832" height="473" alt="Screenshot 2026-05-06 at 4 36 32 PM" src="https://github.com/user-attachments/assets/bce1f3af-5ded-4e8e-9ddb-37b09ac1bc27" />)](https://arcg.is/0ary0C1)
+[<img width="832" height="473" alt="Screenshot 2026-05-06 at 4 36 32 PM" src="https://github.com/user-attachments/assets/bce1f3af-5ded-4e8e-9ddb-37b09ac1bc27" />](https://arcg.is/0ary0C1)
 
 > *The Gini Index from 1963 to today, annotated with the policy and economic events that shaped it. Click the image to open the full interactive StoryMap.*
 
@@ -18,7 +18,7 @@ An interactive data story exploring how income distribution, the Gini coefficien
 | **ArcGIS StoryMap (final dashboard)** | https://arcg.is/0ary0C1 |
 | **Source data repo** | https://github.com/Taylorbeuke/Project3 |
 
-> **Tip:** click the StoryMap link — it's the centerpiece of the project and where the visualizations live in their final, interactive form.
+> **Tip:** click the StoryMap link — it's where the visualizations live in their final, interactive form.
 
 ---
 
