@@ -2,6 +2,7 @@
 
 An interactive data story exploring how income distribution, the Gini coefficient, and housing affordability have shifted in the United States since the 1960s. Built with **Python (Altair + matplotlib)**, **ArcGIS StoryMaps**, and **Power BI**, then narrated through long-form writing on Medium.
 
+
 [![Gini Index Over Time, annotated with historical events](images/gini_index_annotated.png)](https://arcg.is/0ary0C1)
 
 > *The Gini Index from 1963 to today, annotated with the policy and economic events that shaped it. Click the image to open the full interactive StoryMap.*
@@ -12,10 +13,9 @@ An interactive data story exploring how income distribution, the Gini coefficien
 
 | Deliverable | Link |
 |---|---|
-| **Medium article (final)** — *70 Years of U.S. Economic Inequality* | https://medium.com/@taylorbeuke/70-years-of-u-s-economic-inequality-a5f2c7d88cc3 |
-| **Medium article (group project)** — *The Myth of the American Dream* | https://medium.com/@taylorbeuke/the-myth-of-the-american-dream-c0965c96fb7d |
+| **Medium article (redesign)** — *70 Years of U.S. Economic Inequality* | https://medium.com/@taylorbeuke/70-years-of-u-s-economic-inequality-a5f2c7d88cc3 |
+| **Medium article (original designs)** — *The Myth of the American Dream* | https://medium.com/@taylorbeuke/the-myth-of-the-american-dream-c0965c96fb7d |
 | **ArcGIS StoryMap (final dashboard)** | https://arcg.is/0ary0C1 |
-| **Power BI report** | *<replace with public Power BI report URL>* |
 | **Source data repo** | https://github.com/Taylorbeuke/Project3 |
 
 > **Tip:** click the StoryMap link — it's the centerpiece of the project and where the visualizations live in their final, interactive form.
